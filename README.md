@@ -1,5 +1,23 @@
-<!--- ![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?&username=camarman&hide_border=true&title_color=ffffff&text_color=d6d6d6&border_radius=8&show_icons=true&icon_color=FAC8C7&bg_color=0,000428,004e92&count_private=true&include_all_commits=true) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=dreaming...)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a4/2f/89/a42f899fd2afbd78953ead96b0126df8.gif" width="400" height="400">
+![GitHub metrics](https://metrics.lecoq.io/camarman)  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=languages+and+tools...)](https://git.io/typing-svg)
+
+<p float="middle">
+  <img src="https://simpleicons.org/icons/python.svg" width="100" />
+  <img src="https://simpleicons.org/icons/c.svg" width="100" /> 
+  <img src="https://simpleicons.org/icons/r.svg" width="100" />
+  <img src="https://simpleicons.org/icons/jupyter.svg" width="100" />
+  <img src="https://simpleicons.org/icons/linux.svg" width="100" />
+  <img src="https://simpleicons.org/icons/vim.svg" width="100" />
+  <img src="https://simpleicons.org/icons/fedora.svg" width="100" />
+  <img src="https://simpleicons.org/icons/latex.svg" width="100" />
+  <img src="https://simpleicons.org/icons/alacritty.svg" width="100" />
+  <img src="https://simpleicons.org/icons/gnubash.svg" width="100" />
+  <img src="https://simpleicons.org/icons/git.svg" width="100" />
+</p>
+
+<p float="middle">
+   <img src="https://raw.githubusercontent.com/wrapperup/wrapperup/master/good-times.svg" width="500" />
 </p>
