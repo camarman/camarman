@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=dreaming...)](https://git.io/typing-svg)
 
 ![GitHub metrics](https://metrics.lecoq.io/camarman)  
@@ -21,3 +23,5 @@
 <p float="middle">
    <img src="https://raw.githubusercontent.com/wrapperup/wrapperup/master/good-times.svg" width="500" />
 </p>
+
+</div>
