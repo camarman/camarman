@@ -35,12 +35,10 @@
   <img src="https://github.com/camarman/camarman/blob/main/icons/neovim-color.svg" width="50" />
   <img src="https://github.com/camarman/camarman/blob/main/icons/overleaf-color.svg" width="50" />
   <img src="https://github.com/camarman/camarman/blob/main/icons/latex-color.svg" width="50" />
-  <img src="https://github.com/camarman/camarman/blob/main/icons/markdown-color.svg" width="50" />
   <img src="https://github.com/camarman/camarman/blob/main/icons/git-color.svg" width="50" />
   <img src="https://github.com/camarman/camarman/blob/main/icons/alacritty-color.svg" width="50" />
   <img src="https://github.com/camarman/camarman/blob/main/icons/powershell-color.svg" width="50" />
   <img src="https://github.com/camarman/camarman/blob/main/icons/gnubash-color.svg" width="50" />
-  <img src="https://github.com/camarman/camarman/blob/main/icons/github-color.svg" width="50" />
   <img src="https://github.com/camarman/camarman/blob/main/icons/virtualbox-color.svg" width="50" />
 </p>
 </div>
