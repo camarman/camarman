@@ -23,8 +23,8 @@
   <img src="https://github.com/camarman/camarman/blob/main/icons/r-color.svg" width="50" /> 
   <img src="https://github.com/camarman/camarman/blob/main/icons/numpy-color.svg" width="50" /> 
   <img src="https://github.com/camarman/camarman/blob/main/icons/scipy-color.svg" width="50" />
-  <img src="https://github.com/camarman/camarman/blob/main/icons/pandas.svg" width="50" />
-  <img src="https://github.com/camarman/camarman/blob/main/icons/sympy.svg" width="50" />
+  <img src="https://github.com/camarman/camarman/blob/main/icons/pandas-color.svg" width="50" />
+  <img src="https://github.com/camarman/camarman/blob/main/icons/sympy-color.svg" width="50" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=927EF7&center=true&random=true&width=435&lines=Tools%3A)](https://git.io/typing-svg)
