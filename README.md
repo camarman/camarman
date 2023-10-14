@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Operating+Systems...)](https://git.io/typing-svg)
 
 <p float="middle">
-  <img src="https://simpleicons.org/icons/fedora.svg" width="50" />
-  <img src="https://simpleicons.org/icons/microsoft.svg" width="50" />
+
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programming+Languages...)](https://git.io/typing-svg)
